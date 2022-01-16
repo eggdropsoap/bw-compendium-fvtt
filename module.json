@@ -1,6 +1,6 @@
 {
-    "name": "foundry-bw-compendium",
-    "title": "Foundry BW Compendium",
+    "name": "FoundryBWCompendium-dev",
+    "title": "Foundry BW Compendium-DEV",
     "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
     "version": "0.1.11",
     "minimumCoreVersion": "0.5.5",
@@ -52,6 +52,13 @@
             "label": "Elven Traits",
             "module": "foundry-bw-compendium",
             "path": "packs/elven-traits.db",
+            "entity": "Item"
+        },
+        {
+            "name": "elven-spell-songs",
+            "label": "Elven Spell Songs",
+            "module": "foundry-bw-compendium",
+            "path": "packs/elven-spell-songs.db",
             "entity": "Item"
         },
         {
