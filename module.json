@@ -66,6 +66,13 @@
             "entity": "Item"
         },
         {
+            "name": "elven-spell-songs",
+            "label": "Elven Spell Songs",
+            "module": "foundry-bw-compendium",
+            "path": "packs/elven-spell-songs.db",
+            "entity": "Item"
+        },
+        {
             "name": "human-lifepaths",
             "label": "Human Lifepaths",
             "module": "bw-compendium-fvtt",
