@@ -1,7 +1,9 @@
 ## v0.1.14
 
-- Merge in Gifted Child and Apt Pupil additions by A554551N
-- Merge in Elven spell songs start by A554551N
+- Merged in additions by A554551N:
+  - Gifted Child and Apt Pupil
+  - Elven spell songs (incomplete)
+  - Thrown weapons
 - Update deprecated module.json 'entity' fields
 
 ## v0.1.13
