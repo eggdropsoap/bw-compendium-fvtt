@@ -28,84 +28,84 @@
             "label": "Common Skills",
             "module": "bw-compendium-fvtt",
             "path": "packs/common-skills.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "common-traits",
             "label": "Common Traits",
             "module": "bw-compendium-fvtt",
             "path": "packs/common-traits.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "dwarven-lifepaths",
             "label": "Dwarven Lifepaths",
             "module": "bw-compendium-fvtt",
             "path": "packs/dwarven-lifepaths.db",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "dwarven-traits",
             "label": "Dwarven Traits",
             "module": "bw-compendium-fvtt",
             "path": "packs/dwarven-traits.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "elven-lifepaths",
             "label": "Elven Lifepaths",
             "module": "bw-compendium-fvtt",
             "path": "packs/elven-lifepaths.db",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "elven-traits",
             "label": "Elven Traits",
             "module": "bw-compendium-fvtt",
             "path": "packs/elven-traits.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "elven-spell-songs",
             "label": "Elven Spell Songs",
             "module": "bw-compendium-fvtt",
             "path": "packs/elven-spell-songs.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "human-lifepaths",
             "label": "Human Lifepaths",
             "module": "bw-compendium-fvtt",
             "path": "packs/human-lifepaths.db",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "melee-weapons",
             "label": "Melee Weapons",
             "module": "bw-compendium-fvtt",
             "path": "packs/melee-weapons.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "orcish-lifepaths",
             "label": "Orcish Lifepaths",
             "module": "bw-compendium-fvtt",
             "path": "packs/orcish-lifepaths.db",
-            "entity": "Actor"
+            "type": "Actor"
         },
         {
             "name": "orc-traits",
             "label": "Orc Traits",
             "module": "bw-compendium-fvtt",
             "path": "packs/orc-traits.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "ranged-weapons",
             "label": "Ranged Weapons",
             "module": "bw-compendium-fvtt",
             "path": "packs/ranged-weapons.db",
-            "entity": "Item"
+            "type": "Item"
         }
     ]
 }
