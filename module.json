@@ -6,6 +6,16 @@
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "9",
     "author": "PauloDeTiege",
+    "authors": [
+        {
+            "name": "PauloDeTiege",
+            "url": "https://github.com/PauloDeTiege"
+        },
+        {
+            "name": "eggdropsoap",
+            "url": "https://github.com/eggdropsoap"
+        }
+    ],
     "url": "https://github.com/eggdropsoap/bw-compendium-fvtt",
     "manifest": "https://github.com/eggdropsoap/bw-compendium-fvtt/blob/master/system.json",
     "download": "",
