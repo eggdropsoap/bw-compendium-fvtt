@@ -68,7 +68,7 @@
         {
             "name": "elven-spell-songs",
             "label": "Elven Spell Songs",
-            "module": "foundry-bw-compendium",
+            "module": "bw-compendium-fvtt",
             "path": "packs/elven-spell-songs.db",
             "entity": "Item"
         },
