@@ -8,6 +8,8 @@ This is a set of Compendiums for Foundry Virtual Tabletop that are compatible wi
 
 This particular version is a fork of the initial work by [PauloDeTiege](https://github.com/PauloDeTiege) and [A554551N](https://github.com/A554551N).
 
+Requires a copy of *The Burning Wheel* rulebook, which can be purchased from [Burning Wheel HQ](https://www.burningwheel.com).
+
 ## Installation
 
 Install manually from within Foundry VTT with this manifest URL:
