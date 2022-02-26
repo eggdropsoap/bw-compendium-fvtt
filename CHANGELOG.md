@@ -3,6 +3,8 @@
 - Fixed typos:
   - Armour → Armor (fixes match failures in the Character Burner Worksheet)
   - Servitiude → Servitude
+  - Skirmish Training → Skirmish Tactics
+- Update Training skills: add new "training" flag where missing, and correct skill type
 
 ## v0.1.14
 
