@@ -1,3 +1,9 @@
+## v0.1.15
+
+- Fixed typos:
+  - Armour → Armor (fixes match failures in the Character Burner Worksheet)
+  - Servitiude → Servitude
+
 ## v0.1.14
 
 - Merged in additions by A554551N:
