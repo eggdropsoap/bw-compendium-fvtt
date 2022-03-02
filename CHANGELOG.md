@@ -1,3 +1,7 @@
+## v0.1.16
+
+- Fixed more typos
+
 ## v0.1.15
 
 - Fixed typos:
