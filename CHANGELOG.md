@@ -1,6 +1,6 @@
 ## v0.1.16
 
-- Fixed more typos
+- Fixed more typos, including a function-affecting punctuation typo in the Hunter LP
 
 ## v0.1.15
 
