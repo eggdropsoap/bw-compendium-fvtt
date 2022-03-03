@@ -1,3 +1,7 @@
+## v0.1.17
+
+- Fixed missing images throwing errors in console (Peasant LPs, some traits and skills)
+
 ## v0.1.16
 
 - Fixed more typos, including a function-affecting punctuation typo in the Hunter LP
